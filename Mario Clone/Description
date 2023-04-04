@@ -1,0 +1,23 @@
+Nicolas Jones
+
+This project is a simple 2D game... nothing resembles Mario but I like to think
+of 2D games as a base game of mario platformers, with a twist.
+
+In this program, we have a basic animated spritemap of a stickfigure with both
+idle and cycle animations.
+A level to explore, we used a simple floor, box, and 2 moving platforms.
+
+The basis of this game is to jump from the box and stay on a moving platform for as
+long as possible, however no other obsticales or countes have been implemented,
+however that is something I would like to revise in the future.
+
+You begin on the middle of a platform in the abyss, with a box and two flying platforms.
+You start action by trying to jump on the box to then get bumped down by one of the flying
+platforms. You realize you need to time the jump to get on top of the box and after a few 
+tries (or spamming the spacebar) you succeed... Congrats! But then you get pushed off by the
+same platform, that was short lived. So you jump back on the box and make it onto the platform!
+Now to the next platform, but you just cant jump that far on the first try. You proceed to
+repeat until you make it! Congrats you made the hardest jump!
+
+Its very simple and bare bones but a very good starting point to begin building off of with
+other assests and more offical counters and even mutiple levels!
