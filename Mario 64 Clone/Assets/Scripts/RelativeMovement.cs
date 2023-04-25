@@ -13,6 +13,7 @@ public class RelativeMovement : MonoBehaviour
     public float terminalVelocity = -10.0f;
     public float minFall = -1.5f;
 
+    private ControllerColliderHit contact;
     private CharacterController charController;
     private float vertSpeed;
 
